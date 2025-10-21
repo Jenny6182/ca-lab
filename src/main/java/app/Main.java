@@ -11,6 +11,7 @@ public class Main {
                 .addLoggedInView()
                 .addSignupUseCase()
                 .addLoginUseCase()
+                .addLogoutUseCase() // finished the TODO: add the logout use case to the app
                 .addChangePasswordUseCase()
                 .build();
 
